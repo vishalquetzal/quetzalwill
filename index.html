@@ -1,10 +1,14 @@
 ---
 layout: home
-title: "Welcome to the Neo-HPSTR Blog"
-description: "Describe this nonsense."
-tags: [Jekyll, theme, themes, responsive, blog, modern]
+description: ""
+tags: 
 comments: false
+image: 
+  feature: "abstract-1.jpg"
+  credit: Rancho el Misterio
+published: true
 ---
+
 
 {% for post in paginator.posts %}
 <article class="hentry">
@@ -33,7 +37,7 @@ comments: false
     {% endif %}
   </header>
   <div class="entry-content">
-      {{ post.excerpt }}
+      {{ post.content | truncatewords:25}}
       {% if post.content contains "<!-- more -->" %}
           <div align="center">
               <div markdown="0"><a href="{{ site.url }}{{ post.url }}" class="btn btn-info">Continue Reading ...</a></div>
