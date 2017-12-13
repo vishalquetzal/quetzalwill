@@ -1,0 +1,5 @@
+
+<img src="http://elmisterio.org/images/geronimo.jpg" alt="geronimo" width="300" height="183" class="alignnone size-medium wp-image-519" />
+The 4 danced and whirled around the mystical trinity in the divine triangle of Om above the pineal gland. They heard and understood all the sounds that compromise the divine triangle of OM. Each sound brought them closer to the center. They understood all 3 sides of the triangle as Brahma, Vishnu, and Shiva and then arrived at the center. 
+
+From there, Commander Zero sends Geronimo and his Microvita Raiders with this magic vortex down to raid the center of the earth. There are so many electromagnetic fields to fix, so many quantum voids to fill. These spirits have their own version of a new world order and want to put their own spin on to things. They stopped by el Misterio for some rest and relaxation after one such excursion. I asked them if all of this fracking in our area had any effect on his raids and if he had a special message for the exploiters of the planet. Geronimo replied with assured confidence, “Tell them they can go and frack themselves!”
