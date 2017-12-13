@@ -1,16 +1,15 @@
-title:            Blog Title
-description:      Describe your website here.
-
+title:          The Quetzal Will
+description:     
 # put your disqus here
 disqus_shortname:
 reading_time:     true # if true, shows the estimated reading time for a post
 words_per_minute: 200
-logo:             images/logo.png # logo visible in the topbar
+logo:             images/quetzal.jpg # logo visible in the topbar
 excerpt_separator: <!--more-->
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
 
-url: http://aronbordin.com/neo-hpstr-jekyll-theme
+url: https://quetzalwill.github.io/quetzalwill
 
 # draw your top menu here
 # each item must have a title and a url.
@@ -18,36 +17,35 @@ url: http://aronbordin.com/neo-hpstr-jekyll-theme
 #   To create sub categories. add a submenu item
 # See the example
 menu:
-  - title: 'Home'
-    url: '/'
-  - title: 'Fork'
-    url: 'http://github.com/aron-bordin/neo-hpstr-jekyll-theme'
-  - title: 'Install'
-    url: 'http://github.com/aron-bordin/neo-hpstr-jekyll-theme#installation'
-  - title: 'Tags'
-    url: '/tags'
-  - title: 'Categories'
+
+
+  - title: 'español'
+    url: 'https://elmisterio.org'
+  - title: 'Music'
+    url: '/la-flauta-de-bambu'
+  - title: 'Books'
+    url: '/books'
+  - title: 'Posts'
     url: '/categories'
     type: 'categories'
-  - title: 'Favorites'
-    url: '#'
-    submenu:
-      - title: 'Code Highlighter'
-        url: '/intro/code-highlighting-post/'
-      - title: 'Sample Post'
-        url: '/intro/sample-post/'
+  - title: 'RSS'
+    url:  '/feed.xml'
+#    submenu:
+#      - title: 
+#        url: 
+      
 
 # Owner/author information
 owner:
-  name:           Your name
-  site:           http://aronbordin.com
-  avatar:         images/avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+ name:           William Enckhausen
+ site:           https://quetzalwill.github.io/about
+ avatar:         images/avatarr.jpg
+ bio:            "One can receive new publication links to this blog via Facebook or by following the RSS feed.  For contact please use email, quetzal@elmisterio.org.org"
+ email:          quetzal@elmisterio.org
   # Twitter nick for use in Twitter cards and follow button.
-  twitter: aron_bordin # if no twitter in this config, the twitter follow button will be removed
+ twitter:  
   # GitHub nick for use in follow button in author block.
-  github: aron-bordin
+ github: quetzalwill
 
 # Twitter account associated with the site if different from owner/author twitter account.
 # Used in Twitter cards.
@@ -55,12 +53,10 @@ twitter:
 
 # Social networking links used in author block underneath posts. Update and remove as you like.
 social:
-  - title: "github"
-    url: "https://github.com/aron-bordin"
-  - title: "linkedin"
-    url: "https://br.linkedin.com/in/aronbordin"
-  - title: "youtube"
-    url: "https://www.youtube.com/channel/UCfnSek-9HPWOx5e2pH7VFgg"
+  - title: "facebook"
+    url: https://facebook.com/quetzal.will.71
+
+
 
 # Background image to be tiled on all pages
 background:
@@ -81,14 +77,18 @@ sass:
   sass_dir: _sass
   style: compressed
 
+  
+# Open Graph
+og_image: /images/9.jpg 
+
 # https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title/
+permalink:   /:title/
 
 # Amount of post to show on home page
-paginate: 5
+paginate: 225
 
 # if true, shows the floatting share buttons
-float_share: true
+float_share: false
 
 # Octopress
 # Default extensions
@@ -103,4 +103,4 @@ titlecase: true
 include: [".htaccess"]
 exclude: ["demo/*", "lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
 gems: [jekyll-paginate]
-theme: neo-hpstr-jekyll-theme
+theme: 
