@@ -3,10 +3,9 @@ layout: page
 title: Vishal Eckhart
 share: true
 ---
-
+<img src="https://elmisterio.org/images/tantramayamudra.jpg"  />
 
 Vishal Eckhart
-
 
 I was initiated into Tantra Yoga in 1993. I was taught in a very pure and secretive Rajadhiraja Tantra Yoga tradition by a very adept Indian yogi, a disciple of Anandamurti.  Within a few months the kundalini began with what would be a very long and intense awakening. As a student of psychology and world literature, I had heard of kundalini and other mystical energies but I had never thought they were real, live forces.  I thought it was just interesting archaic symbolism, and not an actual force within the human body that rises up through the spinal column to awaken higher states of awareness.  The universal symbol for this force is the serpent. It is said to be a covert, spiritual force beneath the surface of conscious awareness, like a coiled snake. Kundalini is the fundamental intelligence behind life and evolution, waiting to be awakened when the mind finally desires liberation from finite mental bondages. As this divine “serpent power” rises through the spinal column, one experiences states of deep spiritual realization. For the yogi, kundalini is the force that unites the human with the divine.
 
@@ -16,9 +15,9 @@ After that experience I became very confident but experienced a lot of mental tu
 
 My last thought before losing awareness of not just the outer world, but also the inner world of vision, was that the forms looked Meso-American. Only years later would I learn of the Mesoamerican concept of kundalini, what they call <em>Quetzalcoatl</em>, the Plumed Serpent.  The <em>quetzal</em> is a colorful bird of Chiapas and the Mayan symbol for the <em>kundalini</em>, the spiritual energy of evolution and enlightenment that resides dormant within the mind. The Quetzal-kundalini awakens the inner spirit that soars only towards the infinite sky. I adopted Quetzal as my pen name when I began to study Tantra Maya years later.
 
-<img src="https://quetzalwill.github.io/quetzalwill/images/quetzal.jpg" alt="">
+<img src="https://elmisterio.org/images/quetzal.jpg" alt="">
 
-<img src="https://quetzalwill.github.io/quetzalwill/images/quetzalcoatl.jpg" alt="">
+<img src="https://elmisterio.org/images/quetzalcoatl.jpg" alt="">
 
 (<em>This same image was named <em>Quetzalcoatl</em> by the Toltecs and <em>Kulkulkan</em> by the Mayas. A version of the image of Quetzalcoatl is on the Mexican national flag to this day.</em>)
 
@@ -31,7 +30,7 @@ At the time I wanted to become a monk but Chidghananda himself told me that I wa
 
 It was soon after that I met Chandranath and his wife, Ram Pari Devii. They were some of the first initiates and spiritual teachers, or acharyas, personally taught by Anandamurti in the 1950's.  They were undoubtedly the most spiritually elevated beings that I have ever met. The whole environment around them was bliss. Even their lifelong employees, like the cook and the gardener, had become highly developed yogis. Speaking with Chandranath removed any doubts I had about my meditation and he told me that the intensity would calm down with time. He gave me invaluable tips about the mystical subtleties of spiritual practice and left me with the deepest sensation of divine peace that I still feel each time I recall being in his presence. Both he and his wife were established in the practice of samadhi (experiential union with the Supreme Consciousness) and could enter into it at will. They were free, realized souls whose only reason to still be physically incarnated was to help others along the path. After meeting them I realized that more important than being a monk or householder was to simply try to be at one with the Supreme Consciousness at all times, as they were. 
 
-<img src="https://quetzalwill.github.io/quetzalwill/images/chandranath.jpg" alt="">
+<img src="https://elmisterio.org/images/chandranath.jpg" alt="">
 
 When I sat next to Chandranath and tried to listen to him speak of the Supreme Consciousness I could not understand a word he said. He took me into himself and there was only silence and a soft. white glow. I still try to recall that experience and become so still, forget even breathing, and there is still only silence and a soft, white glow.
 
@@ -41,5 +40,5 @@ People like Chandranath have set a practical example of how a realized yogi can 
 
 
 
-<a href="https://quetzalwill.github.io/quetzalwill/tantric-rebellion-and-kundalini.pdf">"Download "Tantric Rebellion and Kundalini"</a>
+
 
