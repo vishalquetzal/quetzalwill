@@ -1,11 +1,11 @@
 ---
 layout: page
-title: William Enckhausen
+title: Vishal Eckhart
 share: true
 ---
-<img src="https://quetzalwill.github.io/quetzalwill/images/tantramayamudra.jpg"  />
 
-William Enckhausen
+
+Vishal Eckhart
 
 
 I was initiated into Tantra Yoga in 1993. I was taught in a very pure and secretive Rajadhiraja Tantra Yoga tradition by a very adept Indian yogi, a disciple of Anandamurti.  Within a few months the kundalini began with what would be a very long and intense awakening. As a student of psychology and world literature, I had heard of kundalini and other mystical energies but I had never thought they were real, live forces.  I thought it was just interesting archaic symbolism, and not an actual force within the human body that rises up through the spinal column to awaken higher states of awareness.  The universal symbol for this force is the serpent. It is said to be a covert, spiritual force beneath the surface of conscious awareness, like a coiled snake. Kundalini is the fundamental intelligence behind life and evolution, waiting to be awakened when the mind finally desires liberation from finite mental bondages. As this divine “serpent power” rises through the spinal column, one experiences states of deep spiritual realization. For the yogi, kundalini is the force that unites the human with the divine.
