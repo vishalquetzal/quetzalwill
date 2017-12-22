@@ -7,7 +7,7 @@ image:
 ---
 Excerpt from A Name To The Nameless  
 
-<a href="https://quetzalwill.github.io/quetzalwill/a-name-to-the-nameless.pdf">"Download "A Name To The Nameless""</a> 
+
 
 ### The Manipura Vortex
          
@@ -117,4 +117,4 @@ When I was a boy I was very curious as to whether Christ really existed as a hum
 
 excerpt from “A Name to the Nameless”
 
-<a href="http://elmisterio.org/books/a-name-to-the-nameless.pdf">Download "A Name To The Nameless"</a> 
+

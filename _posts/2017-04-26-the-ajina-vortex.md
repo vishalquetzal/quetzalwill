@@ -6,7 +6,7 @@ image:
     feature: 
 ---
 
-<a href="https://quetzalwill.github.io/quetzalwill/a-name-to-the-nameless.pdf">"Download "A Name To The Nameless""</a> 
+<a href="https://elmisterio.org/a-name-to-the-nameless.pdf">"Download "A Name To The Nameless""</a> 
 
 The Ajina Vortex is beyond the effects of the Causal Mind, which is connected to the <a href="http://elmisterio.org/the-pure-mind">Vishuddha</a>.  Above the eternal activity of generating, operating, and dissolving the universe, the Mind of Brahma knows itself as essential Mind.  Although there is still the presence of mind, the mind is governed by the deepest part of its subjective chamber, the Mahat.  When the mind is free of the eternal activity of the Causal  Mind, it can then further introvert itself and focus on its fundamental identity.  The Ajina Vortex is the stage in which the mind is totally free from relative objects and can truly understand its nature.  The more the feeling of Mahat or “I” dominates the mind, the closer it is to the pure and unconditioned Self, or Shiva.
 The Ajina Vortex has only two propensities, para and apara.  Para is knowledge of Spirit.  Apara is knowledge of the objective creation.

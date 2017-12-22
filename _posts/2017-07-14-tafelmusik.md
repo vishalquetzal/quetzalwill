@@ -40,8 +40,8 @@ $(document).ready(function(){
 		{
 		   title:"Tafelmusik",
 				artist:"El Misterio",
-				mp3:"https://quetzalwill.github.io/quetzalwill/assets/music/Kiirtan-El-Misterio/tafelmusik.mp3",
-				poster: "https://quetzalwill.github.io/quetzalwill/images/tafelmusik.jpg"
+				mp3:"https://elmisterio.org/assets/music/Kiirtan-El-Misterio/tafelmusik.mp3",
+				poster: "https://elmisterio.org/images/tafelmusik.jpg"
 		}
 	], {
 		playlistOptions: {
@@ -65,80 +65,80 @@ $(document).ready(function(){
 			{
 			title:"Pictures At An Exhibition - Mussorgsky",
 			artist:"William Enckhausen",
-			mp3:"https://quetzalwill.github.io/quetzalwill/assets/music/Contemplations-On-A-Quena/pictures-at-an-exhibition.mp3",
-			poster: "https://quetzalwill.github.io/quetzalwill/images/contemplations.jpg"
+			mp3:"https://elmisterio.org/assets/music/Contemplations-On-A-Quena/pictures-at-an-exhibition.mp3",
+			poster: "https://elmisterio.org/images/contemplations.jpg"
 			},
 			{				
 				title:"Adagio",
 			artist:"William Enckhausen",
-			mp3:"https://quetzalwill.github.io/quetzalwill/assets/music/Contemplations-On-A-Quena/adagio.mp3",
-			poster: "https://quetzalwill.github.io/quetzalwill/images/contemplations.jpg"
+			mp3:"https://elmisterio.org/assets/music/Contemplations-On-A-Quena/adagio.mp3",
+			poster: "https://elmisterio.org/images/contemplations.jpg"
 			},
 			{
 					title:"Andalouse",
 			artist:"William Enckhausen",
-			mp3:"https://quetzalwill.github.io/quetzalwill/assets/music/Contemplations-On-A-Quena/andalouse.mp3",
-			poster: "https://quetzalwill.github.io/quetzalwill/images/contemplations.jpg"
+			mp3:"https://elmisterio.org/assets/music/Contemplations-On-A-Quena/andalouse.mp3",
+			poster: "https://elmisterio.org/images/contemplations.jpg"
 			},
 			{
 					title:"Meditation",
 			artist:"William Enckhausen",
-			mp3:"https://quetzalwill.github.io/quetzalwill/assets/music/Contemplations-On-A-Quena/meditation.mp3",
-			poster: "https://quetzalwill.github.io/quetzalwill/images/contemplations.jpg"
+			mp3:"https://elmisterio.org/assets/music/Contemplations-On-A-Quena/meditation.mp3",
+			poster: "https://elmisterio.org/images/contemplations.jpg"
 			},
 			{
 				title:"Dvorak",
 			artist:"William Enckhausen",
-			mp3:"https://quetzalwill.github.io/quetzalwill/assets/music/Contemplations-On-A-Quena/dvorak.mp3",
-			poster: "https://quetzalwill.github.io/quetzalwill/images/contemplations.jpg"
+			mp3:"https://elmisterio.org/assets/music/Contemplations-On-A-Quena/dvorak.mp3",
+			poster: "https://elmisterio.org/images/contemplations.jpg"
 			},
 			{
                 title:"Whistles",
 			artist:"William Enckhausen",
-			mp3:"https://quetzalwill.github.io/quetzalwill/assets/music/Contemplations-On-A-Quena/whistles.mp3",
-			poster: "https://quetzalwill.github.io/quetzalwill/images/contemplations.jpg"
+			mp3:"https://elmisterio.org/assets/music/Contemplations-On-A-Quena/whistles.mp3",
+			poster: "https://elmisterio.org/images/contemplations.jpg"
 			},
 			{
                 title:"John Dowland Songs",
 			artist:"William Enckhausen",
-			mp3:"https://quetzalwill.github.io/quetzalwill/assets/music/Contemplations-On-A-Quena/dowland.mp3",
-			poster: "https://quetzalwill.github.io/quetzalwill/images/contemplations.jpg"
+			mp3:"https://elmisterio.org/assets/music/Contemplations-On-A-Quena/dowland.mp3",
+			poster: "https://elmisterio.org/images/contemplations.jpg"
 			},
 			{
                 title:"Nocturne - Chopin",
 			artist:"William Enckhausen",
-			mp3:"https://quetzalwill.github.io/quetzalwill/assets/music/Contemplations-On-A-Quena/nocturne.mp3",
-			poster: "https://quetzalwill.github.io/quetzalwill/images/contemplations.jpg"
+			mp3:"https://elmisterio.org/assets/music/Contemplations-On-A-Quena/nocturne.mp3",
+			poster: "https://elmisterio.org/images/contemplations.jpg"
 			},
 			{
                 title:"Anandamurti Melodies",
 			artist:"William Enckhausen",
-			mp3:"https://quetzalwill.github.io/quetzalwill/assets/music/Contemplations-On-A-Quena/anandamurti.mp3",
-			poster: "https://quetzalwill.github.io/quetzalwill/images/contemplations.jpg"
+			mp3:"https://elmisterio.org/assets/music/Contemplations-On-A-Quena/anandamurti.mp3",
+			poster: "https://elmisterio.org/images/contemplations.jpg"
 			},
 			{
                 title:"William Enckhausen plays Heinrich Enckhausen, Handel, and Telemann",
 			artist:"William Enckhausen",
-			mp3:"https://quetzalwill.github.io/quetzalwill/assets/music/Contemplations-On-A-Quena/enckhausen.mp3",
-			poster: "https://quetzalwill.github.io/quetzalwill/images/contemplations.jpg"
+			mp3:"https://elmisterio.org/assets/music/Contemplations-On-A-Quena/enckhausen.mp3",
+			poster: "https://elmisterio.org/images/contemplations.jpg"
 			},
 			{
                 title:"Reverie - Debussy",
 			artist:"William Enckhausen",
-			mp3:"https://quetzalwill.github.io/quetzalwill/assets/music/Contemplations-On-A-Quena/reverie.mp3",
-			poster: "https://quetzalwill.github.io/quetzalwill/images/contemplations.jpg"
+			mp3:"https://elmisterio.org/assets/music/Contemplations-On-A-Quena/reverie.mp3",
+			poster: "https://elmisterio.org/images/contemplations.jpg"
 			},
 			{
                 title:"Dance Of The Blessed Spirits",
 			artist:"William Enckhausen",
-			mp3:"https://quetzalwill.github.io/quetzalwill/assets/music/Contemplations-On-A-Quena/blessed-spirits.mp3",
-			poster: "https://quetzalwill.github.io/quetzalwill/images/contemplations.jpg"
+			mp3:"https://elmisterio.org/assets/music/Contemplations-On-A-Quena/blessed-spirits.mp3",
+			poster: "https://elmisterio.org/images/contemplations.jpg"
 			},
 			{
                 title:"Los Doraditos",
 			artist:"William Enckhausen",
-			mp3:"https://quetzalwill.github.io/quetzalwill/assets/music/Contemplations-On-A-Quena/los-doraditos.mp3",
-			poster: "https://quetzalwill.github.io/quetzalwill/images/contemplations.jpg"                                                                                     
+			mp3:"https://elmisterio.org/assets/music/Contemplations-On-A-Quena/los-doraditos.mp3",
+			poster: "https://elmisterio.org/images/contemplations.jpg"                                                                                     
 			}
 		]);
 	});
@@ -150,74 +150,74 @@ $(document).ready(function(){
 			{
 			    title:"Govinda",
 				artist:"El Misterio",
-				mp3:"https://quetzalwill.github.io/quetzalwill/assets/music/Kiirtan-El-Misterio/govinda.mp3",
-				poster: "https://quetzalwill.github.io/quetzalwill/images/kiirtan.jpg"
+				mp3:"https://elmisterio.org/assets/music/Kiirtan-El-Misterio/govinda.mp3",
+				poster: "https://elmisterio.org/images/kiirtan.jpg"
 			},
             {
 			    title:"Topilejo",
 				artist:"El Misterio",
-				mp3:"https://quetzalwill.github.io/quetzalwill/assets/music/Kiirtan-El-Misterio/topilejo.mp3",
-				poster: "https://quetzalwill.github.io/quetzalwill/images/kiirtan.jpg"
+				mp3:"https://elmisterio.org/assets/music/Kiirtan-El-Misterio/topilejo.mp3",
+				poster: "https://elmisterio.org/images/kiirtan.jpg"
 			},
 			{
 				title:"Padmasambhava",
 				artist:"El Misterio",
-				mp3:"https://quetzalwill.github.io/quetzalwill/assets/music/Kiirtan-El-Misterio/padmasambhava.mp3",
-				poster: "https://quetzalwill.github.io/quetzalwill/images/kiirtan.jpg"
+				mp3:"https://elmisterio.org/assets/music/Kiirtan-El-Misterio/padmasambhava.mp3",
+				poster: "https://elmisterio.org/images/kiirtan.jpg"
 			},
 			{
 				title:"Baba Nam Kevalam",
 				artist:"El Misterio",
-				mp3:"https://quetzalwill.github.io/quetzalwill/assets/music/Kiirtan-El-Misterio/babanamkevalam.mp3",
-				poster: "https://quetzalwill.github.io/quetzalwill/images/kiirtan.jpg"
+				mp3:"https://elmisterio.org/assets/music/Kiirtan-El-Misterio/babanamkevalam.mp3",
+				poster: "https://elmisterio.org/images/kiirtan.jpg"
 			},
 			{
 				title:"Soja",
 				artist:"El Misterio",
-				mp3:"https://quetzalwill.github.io/quetzalwill/assets/music/Kiirtan-El-Misterio/soja.mp3",
-				poster: "https://quetzalwill.github.io/quetzalwill/images/kiirtan.jpg"
+				mp3:"https://elmisterio.org/assets/music/Kiirtan-El-Misterio/soja.mp3",
+				poster: "https://elmisterio.org/images/kiirtan.jpg"
 			},
 			{
 				title:"Om Ah Hum Vajra Guru",
 				artist:"El Misterio",
-				mp3:"https://quetzalwill.github.io/quetzalwill/assets/music/Kiirtan-El-Misterio/om-ah-hum-vajra-guru.mp3",
-				poster: "https://quetzalwill.github.io/quetzalwill/images/kiirtan.jpg"
+				mp3:"https://elmisterio.org/assets/music/Kiirtan-El-Misterio/om-ah-hum-vajra-guru.mp3",
+				poster: "https://elmisterio.org/images/kiirtan.jpg"
 			},
 			{
 				title:"Nikte Ha Kiirtan",
 				artist:"El Misterio",
-				mp3:"https://quetzalwill.github.io/quetzalwill/assets/music/Kiirtan-El-Misterio/nikteha.mp3",
-				poster: "https://quetzalwill.github.io/quetzalwill/images/kiirtan.jpg"
+				mp3:"https://elmisterio.org/assets/music/Kiirtan-El-Misterio/nikteha.mp3",
+				poster: "https://elmisterio.org/images/kiirtan.jpg"
 			},
 			{
 				title:"Reverie Kiirtan",
 				artist:"El Misterio",
-				mp3:"https://quetzalwill.github.io/quetzalwill/assets/music/Kiirtan-El-Misterio/reverie-kiirtan.mp3",
-				poster: "https://quetzalwill.github.io/quetzalwill/images/kiirtan.jpg"
+				mp3:"https://elmisterio.org/assets/music/Kiirtan-El-Misterio/reverie-kiirtan.mp3",
+				poster: "https://elmisterio.org/images/kiirtan.jpg"
 			},
 			{
 				title:"Desierto",
 				artist:"El Misterio",
-				mp3:"https://quetzalwill.github.io/quetzalwill/assets/music/Kiirtan-El-Misterio/desierto2.mp3",
-				poster: "https://quetzalwill.github.io/quetzalwill/images/kiirtan.jpg"
+				mp3:"https://elmisterio.org/assets/music/Kiirtan-El-Misterio/desierto2.mp3",
+				poster: "https://elmisterio.org/images/kiirtan.jpg"
 			},
 			{
 				title:"Tiny Green Island",
 				artist:"El Misterio",
-				mp3:"https://quetzalwill.github.io/quetzalwill/assets/music/Kiirtan-El-Misterio/tiny-green-island.mp3",
-				poster: "https://quetzalwill.github.io/quetzalwill/images/kiirtan.jpg"
+				mp3:"https://elmisterio.org/assets/music/Kiirtan-El-Misterio/tiny-green-island.mp3",
+				poster: "https://elmisterio.org/images/kiirtan.jpg"
 			},
 			{
 				title:"La Gracia",
 				artist:"El Misterio",
-				mp3:"https://quetzalwill.github.io/quetzalwill/assets/music/Kiirtan-El-Misterio/gracia.mp3",
-				poster: "https://quetzalwill.github.io/quetzalwill/images/kiirtan.jpg"
+				mp3:"https://elmisterio.org/assets/music/Kiirtan-El-Misterio/gracia.mp3",
+				poster: "https://elmisterio.org/images/kiirtan.jpg"
 			},
 			{
 				title:"Los Doraditos",
 				artist:"El Misterio",
-				mp3:"https://quetzalwill.github.io/quetzalwill/assets/music/Kiirtan-El-Misterio/los-doraditos.mp3",
-				poster: "https://quetzalwill.github.io/quetzalwill/images/kiirtan.jpg"
+				mp3:"https://elmisterio.org/assets/music/Kiirtan-El-Misterio/los-doraditos.mp3",
+				poster: "https://elmisterio.org/images/kiirtan.jpg"
 			}
 		]);
 	});
@@ -229,32 +229,32 @@ $(document).ready(function(){
 			{
 				title:"Gavotte And Minuet",
 				artist:"William Enckhausen",
-				mp3:"https://quetzalwill.github.io/quetzalwill/assets/music/Bach-On-Bamboo/gavotte-minuet.mp3",
-				poster: "https://quetzalwill.github.io/quetzalwill/images/contemplations.jpg"
+				mp3:"https://elmisterio.org/assets/music/Bach-On-Bamboo/gavotte-minuet.mp3",
+				poster: "https://elmisterio.org/images/contemplations.jpg"
 			},
 			{
 				title:"Air and Gavotte",
 				artist:"William Enckhausen",
-				mp3:"https://quetzalwill.github.io/quetzalwill/assets/music/Bach-On-Bamboo/air-gavotte.mp3",
-				poster: "https://quetzalwill.github.io/quetzalwill/images/contemplations.jpg"
+				mp3:"https://elmisterio.org/assets/music/Bach-On-Bamboo/air-gavotte.mp3",
+				poster: "https://elmisterio.org/images/contemplations.jpg"
 			},
 			{
 				title:"Christmas Oratorio",
 				artist:"William Enckhausen",
-				mp3:"https://quetzalwill.github.io/quetzalwill/assets/music/Bach-On-Bamboo/christmas-oratorio.mp3",
-				poster: "https://quetzalwill.github.io/quetzalwill/images/contemplations.jpg"
+				mp3:"https://elmisterio.org/assets/music/Bach-On-Bamboo/christmas-oratorio.mp3",
+				poster: "https://elmisterio.org/images/contemplations.jpg"
 			},
 			{
 				title:"Sonata in B-minor",
 				artist:"William Enckhausen",
-				mp3:"https://quetzalwill.github.io/quetzalwill/assets/music/Bach-On-Bamboo/sonata-b-minor.mp3",
-				poster: "https://quetzalwill.github.io/quetzalwill/images/contemplations.jpg"
+				mp3:"https://elmisterio.org/assets/music/Bach-On-Bamboo/sonata-b-minor.mp3",
+				poster: "https://elmisterio.org/images/contemplations.jpg"
 			},
 			{
 				title:"Minuet, Air, and Bouree",
 				artist:"William Enckhausen",
-				mp3:"https://quetzalwill.github.io/quetzalwill/assets/music/Bach-On-Bamboo/minuet-air-bouree.mp3",
-				poster: "https://quetzalwill.github.io/quetzalwill/images/contemplations.jpg"
+				mp3:"https://elmisterio.org/assets/music/Bach-On-Bamboo/minuet-air-bouree.mp3",
+				poster: "https://elmisterio.org/images/contemplations.jpg"
 			}
 		]);
 	});
@@ -531,8 +531,8 @@ $(document).ready(function(){
 <code></code><br />
 &nbsp;
 
-<li><a href="https://quetzalwill.github.io/quetzalwill/assets/music/Kiirtan-El-Misterio/tafelmusik.mp3"> Download "Tafelmusik"</a></li>
-<a href="https://quetzalwill.github.io/quetzalwill/la-flauta-de-bambu/"> Download and listen to other music.</a>
+<li><a href="https://elmisterio.org/assets/music/Kiirtan-El-Misterio/tafelmusik.mp3"> Download "Tafelmusik"</a></li>
+<a href="https://elmisterio.org/la-flauta-de-bambu/"> Download and listen to other music.</a>
 
 
 

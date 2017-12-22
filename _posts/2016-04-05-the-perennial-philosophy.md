@@ -7,7 +7,7 @@ image:
 ---
 Excerpt from A Name To The Nameless  
 
-<a href="https://quetzalwill.github.io/quetzalwill/a-name-to-the-nameless.pdf">"Download "A Name To The Nameless""</a> 
+
 
 There has never been nor will there ever be a more exalted inspiration than the realization of the oneness of the human soul with the Infinite Being. This is an ever-renewing germ of thought in the perennial philosophy that will sprout wherever there are noble hearts and great minds that seek to love and understand the deepest parts of our being.  The greatest sages of all eras and cultures have proclaimed this great truth: that the deepest source of a human being's existence is at one or in union with the Supreme Consciousness.  The universality of such a cardinal idea is not necessarily due to the cultural transmission of a great seer to others following his or her cultural descent, nor is it necessarily due to the influences of one culture upon another.  Its universality represents the realization of spiritual aspirations innate to the nature of humanity.  For an individual to understand the essence of one's inner “I” which transcends all of the particularities of his/her biological inheritance, cultural orientation, social conditioning, and personal tastes, is to know the essence of the universal “I”, the infinite consciousness and life-source of the universe.
 	
@@ -35,4 +35,5 @@ Through our union with the source of infinite knowledge, resourcefulness and cre
 	
 This understanding brings us to a very fine balance between the intuitive approach of eastern mysticism and the dynamism of the western intellect.  At one extreme is the complete transcendence of the mind, world, and body: at the other, the reduction of all things to matter.  So the modern contemplative must of course be able to tread the fathomless ground of the godhead, of the absolute, uncreated Brahma. While at the same time it is necessary to maintain an acute intellect and intuition that can fully comprehend all the spiritual and psychological processes along our journey through the physical, psychic and spiritual worlds.  With this harmonious balance of the inner (subjective) and outer (objective) spheres the individual attains his/her own emancipation by realizing the Infinite Being within one's very own existence.  This realization  cultivates one's deepest humanity  and gives the wisdom and compassion to care for and further the progress of all creation.
 .
+excerpt from "A Name To The Nameless"
 

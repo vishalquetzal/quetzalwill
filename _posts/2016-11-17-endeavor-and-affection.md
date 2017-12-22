@@ -36,6 +36,6 @@ Once the person feels love-worthy by others a noble confidence and self- respect
 
 Excerpt from Anahata
 
-  <a href="https://quetzalwill.github.io/quetzalwill/anahata.pdf">Download "Anahata"</a>
+
 
 

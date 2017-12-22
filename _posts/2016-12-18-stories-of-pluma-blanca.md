@@ -74,4 +74,5 @@ Pluma Blanca began beating his drum and shouting in Maya and then chanting “Ba
 
 I have lived with indigenous Mexicans for the last 13 years. Although I sometimes doubt their credulity in such magic realities, I have seen so many occasions in which these ideas have lead to the most amazing revelations of truth. Pluma Blanca was a very refined yogi. My wife was his favorite student. He understood all of these practices without superstition and myth and taught very advanced, systematic meditations to understand these “magical realities.”
 
+excerpt from "The Quetzal Will"
 .

@@ -17,7 +17,7 @@ Most of us are just like repressed frat boys on the inside. We ignore the realit
 
 Our mundane and selfish mentality will not take responsibility for the damage that it is creating all around the world. Most people trapped in materialism do not care so much about what happens to people in other places, as long as they continue to live in material comfort. Their biased ideological distortions and selfishness hide the ugly truth that our imbalanced socio-economic system must steal the natural resources and brutally exploit the labor of others in far away lands, and even create wars to do so.  This predatory lifestyle is responsible for so much destruction and suffering for the rest of the planet and its people. Under globalist capitalism, the first world is the parasite of the third.
 
-<img src="https://quetzalwill.github.io/quetzalwill/wp-content/uploads/2017/09/napalmgirl.jpg" />
+<img src="https://elmisterio.org/wp-content/uploads/2017/09/napalmgirl.jpg" />
 <em>It is best to just forget about the world's sufferings and to just focus on the clowns…........and become slowly insane with cognitive dissonance.</em>
 
 
@@ -57,5 +57,5 @@ Dogmatism and religion have little to do with dharma, which is the “essential�
 
 Our lack of mindful awareness makes space for a whole host of foolish ideologies.  Egoism is for infants. Materialism is for brutes and Barbies. Racism and imperialism are for Neanderthals. Nationalism is but a reunion of Cro-mags. Religion mostly just keeps people from having to face hard truths themselves, and thereby take a leap of faith by sheepishly following the established ideas of others. Spiritual anarchists like Thoreau, Aurobindu and Tolstoy could not be contained within the confines of social convention and corrupt substitutes for dharma. Instead, they sought a higher union with both Nature and society and offered something new and bold for humanity. In this day and age it is hard to have faith in “systems” that don’t sprout up from a natural order based on local necessity. Spiritual visionaries have always and will always respond to the needs of their local human and natural environments and offer a new vision for the world inspired by the genius of eternal dharma. These practical examples show how some great truths are implemented through the most practical and humane expressions.
 
-<a href="https://quetzalwill.github.io/quetzalwill/tantric-rebellion-and-kundalini.pdf">"Download "Tantric Rebellion and Kundalini"</a>
-.
+
+.excerpt from "The Quetzal Will"

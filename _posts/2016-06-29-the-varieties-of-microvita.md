@@ -8,7 +8,7 @@ image:
  Excerpt from Microvita and Tantra Maya
 
 
-<a href="https://quetzalwill.github.io/quetzalwill/microvita-and-tantra-maya.pdf">"Download "Microvita and Tantra Maya"</a>
+
 
 Anandamurti spoke of Microvita in several different aspects. He described the grossest forms of Microvita involved in the materialization and manipulation of material forces as well as the most subtle forms of microvita that function on the psycho-spiritual planes of being. The focus of this work will principally be on the function of microvita in the psycho-physical, psychic and psycho-spiritual planes of mind. Because microvita is such a broad, generalized term that includes so many types of disembodied microcosmic minds, I will refer to the entities hitherto discussed that relate to human psycho-physicaI, psychic, and psycho-spiritual planes of mind as <i>mentities</i>, or mental entities. I admit that my knowledge of these subtle entities on these levels is still elementary, but I have yet to investigate the function of microvita on the physical level, therefore I am even less capable of attempting to discuss them. </span></span>
 
@@ -174,4 +174,4 @@ Anandamurti spoke of Microvita in several different aspects. He described the gr
 
 <span style="font-family: DejaVu Sans,sans-serif;"><span style="font-size: medium;"> It is for this very reason that the siddhas must be liberated from a physical base. In order to complete the cycle of creation, one must see the absolute oneness of Brahma, that even this physical creation is a manifestation of Spirit. Without this understanding we have not fulfilled our purpose in this creation. Has the Macrocosm created all of this only to show its essential nothingness, without purpose or reason? The illusionist, the spiritual nihilist, closes his eyes all through the day only waiting for the sleep of night. It is the same with all that resist Oneness. They seek an escape from how things really are and deny the essential spirituality of creation and fail to see that this world is the name for the nameless, the expression of the inexpressible and that there is a place for each of us. As long as one resists the spiritual nature of creation there is no release from it. As Vivekananda once stated, we must leave our mark on this world before we go. True, all is intransient, vaporous, shadowy, and incessantly passing away from us. But within this hazy mist is a definite theme and purpose for its every particle.</span></span>
 
- <a href="http://elmisterio.org/books/microvita-and-tantra-maya.pdf">Download "Microvita and Tantra Maya"</a>
+

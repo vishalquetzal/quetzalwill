@@ -51,5 +51,5 @@ The "good" or "conscious" people will make it through this evolutionary pass. No
 
 The destruction of the majority of humans will come more through tensions with the inner dimensions of the mind rather than volcanoes and earthquakes. But volcanoes and earthquakes will also have their part.
 
+excerpt from "The Quetzal Will"
 
-<a href="https://quetzalwill.github.io/quetzalwill/tantric-rebellion-and-kundalini.pdf">"Download "The Quetzal Will - Tantric Rebellion and Kundalini"</a>

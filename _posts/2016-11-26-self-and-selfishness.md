@@ -29,6 +29,6 @@ Very often this vrtti is found to work in accordance with the vrttis of the seco
 
 Excerpt from Anahata
 
-  <a href="https://quetzalwill.github.io/quetzalwill/anahata.pdf">Download "Anahata"</a>
+
 
 

@@ -41,6 +41,8 @@ The 10 principles of Yama and Niyama are just and very universal spiritual value
 5. Iishvara pran'idha'na: To take shelter or meditate on Iishvara, the Supreme Consciousness.
 
 
-<a href="https://quetzalwill.github.io/quetzalwill/a-name-to-the-nameless.pdf">"Download "A Name To The Nameless""</a> 
+<a href="https://elmisterio.org/a-name-to-the-nameless.pdf">"Download "A Name To The Nameless""</a> 
 
 	For a more complete and very lucid, modern and socially applicable understanding of Yama and Niyama, I refer the reader to the book of Ananadamurti, “A Guide To Human Conduct.”
+
+excerpt from "A Name To The Nameless"

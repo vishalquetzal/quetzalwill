@@ -3,7 +3,7 @@ layout: post
 title: Psorax, Microvita And Duplicity
 categories: [tantra maya] 
 image:
-    feature: psorax.jpg
+    feature: 
 ---
 Anybody who has looked into the abyss of his or her consciousness knows that the abyss looks back at you, as Nietzche said. The unconscious mind is a very live and active zoo of escaped animals raging about in pure chaos and savagery. Does their years of pent-up frustration make them even more crazy when they finally escape? And in all of this unintelligible impulse speaks back from the chasm some kind of insidious intelligence. In modern psychology, this hidden intentionality has been called the id, the shadow, or the unconscious.
 

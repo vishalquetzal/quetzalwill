@@ -20,9 +20,9 @@ menu:
 
 
   - title: 'español'
-    url: 'https://elmisterio.org'
+    url: 'https://elmisterio.org/es'
   - title: 'Music'
-    url: '/la-flauta-de-bambu'
+    url: 'https://elmisterio.org/la-flauta-de-bambu'
   - title: 'Books'
     url: '/books'
   - title: 'Posts'

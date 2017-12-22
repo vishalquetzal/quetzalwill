@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Evolution of Tantra Maya
-categories: [ananda marga, tantric rebellion] 
+categories: [ananda marga, tantra maya, tantric rebellion] 
 image:
     feature: tantramayamudra.jpg
 ---
@@ -68,7 +68,6 @@ Astrology, however, required a different style of meditation. One doesn’t need
 
 Excerpt from The Quetzal Will - Tantric Rebellion and Kundalini
 
-<a href="https://quetzalwill.github.io/quetzalwill/tantric-rebellion-and-kundalini.pdf"> Download "The Quetzal Will - Tantric Rebellion and Kundalini"</a>
 
-<img src="https://quetzalwill.github.io/quetzalwill/wp-content/uploads/2017/09/tantramayamudra.jpg" </a>
+<img src="https://elmisterio.org/wp-content/uploads/2017/09/tantramayamudra.jpg" </a>
 The "inverted namaskar" hand posture to help awaken the anahata spiritual heart.  Instead of saluting the divinity of another as in the namaskar posture with the palms together, this posture focuses the salutation of the divinity toward the spiritual heart or anahata chakra.  

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ancestral Memory and the Eternal Recurrence
-categories: [tantra maya tantric rebellion] 
+categories: [tantra maya, tantric rebellion] 
 image:
     feature: 
 ---

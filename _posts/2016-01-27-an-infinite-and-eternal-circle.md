@@ -42,6 +42,6 @@ It is through sadhana that a microcosmic consciousness becomes one with the Macr
 
 excerpt from "A Name To The Nameless"
 
-<a href="https://quetzalwill.github.io/quetzalwill/a-name-to-the-nameless.pdf">"Download "A Name To The Nameless""</a> 
+
 .
 

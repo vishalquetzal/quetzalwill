@@ -7,7 +7,7 @@ image:
 ---
 Excerpt from A Name To The Nameless  
 
-<a href="https://quetzalwill.github.io/quetzalwill/a-name-to-the-nameless.pdf">"Download "A Name To The Nameless""</a> 
+
 
 At humanity's present stage of evolution, it is very rare to find individuals, much less societies, functioning at the level of the Vishuddha Vortex.  In fact, it is rare to find individuals that have assimilated the tendencies of the Anahata Vortex.  However, there are concepts for such states of mind for these individuals such as "self-actualizing" or "well-adjusted" people.  Although human society is still far from fully integrating the Anahata propensities, there are a few individuals within that society who have made this leap.
 	

@@ -1,3 +1,11 @@
+---
+layout: post
+title: Interview With Dada Chidghananda
+categories: [ananda marga] 
+image:
+    feature: 
+---
+
  <iframe width="560" height="315" src="https://www.youtube.com/embed/oi_HRlNnWjI" frameborder="0" allowfullscreen></iframe>
 I went to India seeking more understanding.  There I met Chidghananda, a solitary old monk well-venerated in his order.  He was regarded as a saint and I felt so honored that he took me into his close friendship and care.  Sometimes I would accompany him with his evening meditations.  He always heard the holy Om sound and it increased in his meditation. It was obvious that he regularly experienced ananda, divine bliss.  He was truly one of the most loving human beings that I have ever met.  My experiences had intensified near him at Ananda Nagar and it was clearly divine will that I had met such a teacher to guide me through these powerful processes.
 

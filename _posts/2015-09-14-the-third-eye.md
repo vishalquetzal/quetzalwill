@@ -7,7 +7,7 @@ image:
 ---
 Excerpt from A Name To The Nameless  
 
-<a href="https://quetzalwill.github.io/quetzalwill/a-name-to-the-nameless.pdf">"Download "A Name To The Nameless""</a> 
+
 
 ---
 tags: [A Name to the Nameless]

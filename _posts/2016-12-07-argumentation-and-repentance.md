@@ -33,6 +33,6 @@ To just go inward from here is to deliver to Shiva so many quantum, so many pack
 
 Excerpt from Anahata
 
-  <a href="https://quetzalwill.github.io/quetzalwill/anahata.pdf">Download "Anahata"</a>
+
 
 
