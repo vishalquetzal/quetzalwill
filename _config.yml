@@ -1,4 +1,4 @@
-title:          Vishal Eckhart
+title:          Vishal Quetzal
 description:     
 # put your disqus here
 disqus_shortname:
@@ -9,7 +9,7 @@ excerpt_separator: <!--more-->
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
 
-url: https://quetzalwill.github.io/quetzalwill
+url: https://vishalquetzal.github.io/vishalquetzal
 
 # draw your top menu here
 # each item must have a title and a url.
@@ -22,7 +22,7 @@ menu:
   - title: 'español'
     url: 'https://elmisterio.org/es'
   - title: 'Music'
-    url: 'https://elmisterio.org/la-flauta-de-bambu'
+    url: 'https://vishalquetzal.github.io/vishalquetzal/la-flauta-de-bambu'
   - title: 'Books'
     url: '/books'
   - title: 'Posts'
@@ -38,14 +38,14 @@ menu:
 # Owner/author information
 owner:
  name:           Vishal Eckhart
- site:           https://quetzalwill.github.io/about
+ site:           https://vishalquetzal.github.io/vishalquetzal/about
  avatar:         images/avatarr.jpg
  bio:            "One can receive new publication links to this blog via Facebook or by following the RSS feed."
  email:          eckhart.we@protonmail.com
   # Twitter nick for use in Twitter cards and follow button.
  twitter:  
   # GitHub nick for use in follow button in author block.
- github: quetzalwill
+ github: vishalquetzal
 
 # Twitter account associated with the site if different from owner/author twitter account.
 # Used in Twitter cards.
